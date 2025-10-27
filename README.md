@@ -58,3 +58,4 @@ git clone https://github.com/seu-usuario/Lista_de_Contatos.git
 
 ## Conclusão
 O projeto Lista de Contatos serve como prática sólida em HTML e CSS, mostrando como estruturar listas interativas e estilizadas. É uma base para evoluir em funcionalidades e responsividade, além de aplicar boas práticas de design de interface.
+
